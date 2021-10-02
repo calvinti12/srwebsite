@@ -1,0 +1,37 @@
+swift relay - 
+
+https://www.figma.com/file/GmQi8ebpmaeC56Y3szaKms/Swift-Relay?node-id=612%3A2911
+
+
+Roborelay Website Progress
+
+Home Page
+
+Hero Section: 
+“Welcome to Roborelay” font can be bigger by 4pts - done
+Plugin image can be moved more to the left (left side is looking very blank) - done
+“Download” button border can be increased by 1-2 pts - currently looks v thin - done
+
+
+Plugin Features:
+Can Sarika export the icons in 2x so that they are better clarity - a bit pixelated at the moment. 
+Also need to amend hover action on Safari
+
+
+FAQ
+The boxes here are getting wider when clicked on, is there a way to avoid this and make the info appear in the same box width, I am okay if the height increases
+
+Footer
+“Connect with Us” should be in gradient colour like figma mockup
+
+Overall
+Please change the robot - i have sent on email
+
+
+
+home page - need download extention section left image with drop shadow image
+Autobooker page - need banner background full image
+Features page - need banner background full image and cards complete images
+remote server - need background full image
+about us - needd about us left side gallery images
+
